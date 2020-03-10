@@ -3,8 +3,14 @@
 # all map methods return a new Array
 
 def map_to_negativize(source_array)
+  i = 0 
+  map_array = []
+  while () do 
+    
+    
+  end 
   
-  
+  return map_array
 end 
 
 def map_to_no_change(source_array)
