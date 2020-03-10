@@ -5,9 +5,9 @@
 def map_to_negativize(source_array)
   i = 0 
   map_array = []
-  while () do 
+  while (i < source_array.length) do 
     
-    
+    i += 1
   end 
   
   return map_array
