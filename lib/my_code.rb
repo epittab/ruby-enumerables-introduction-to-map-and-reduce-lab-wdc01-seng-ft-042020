@@ -69,13 +69,13 @@ end
 def reduce_to_all_true(source_array)
   
   i = 0 
-  total = 0
+  final_bool = false
   while (i < source_array.length) do 
     
     i += 1
   end 
   
-  return total
+  return final_bool
   
   
 end
@@ -84,13 +84,13 @@ end
 def reduce_to_any_true(source_array)
   
   i = 0 
-  total = 0
+  final_bool = false
   while (i < source_array.length) do 
     
     i += 1
   end 
   
-  return total
+  return final_bool
   
   
 end
